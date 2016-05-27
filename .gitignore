@@ -7,6 +7,10 @@
 *.userosscache
 *.sln.docstates
 
+# Generated Quests
+QuestGenerator/output
+QuestGenerator/output/*.*
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
